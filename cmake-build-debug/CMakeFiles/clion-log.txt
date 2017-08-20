@@ -1,0 +1,4 @@
+/home/znt/Software/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/znt/CLionProjects/C++ Primer/C++Primer"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/znt/CLionProjects/C++ Primer/C++Primer/cmake-build-debug

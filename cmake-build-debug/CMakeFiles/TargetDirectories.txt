@@ -1,0 +1,3 @@
+/home/znt/CLionProjects/C++ Primer/C++Primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/znt/CLionProjects/C++ Primer/C++Primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/znt/CLionProjects/C++ Primer/C++Primer/cmake-build-debug/CMakeFiles/C__Primer.dir

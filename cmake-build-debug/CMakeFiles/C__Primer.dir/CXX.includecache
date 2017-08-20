@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/znt/CLionProjects/C++ Primer/C++Primer/String/String.cpp
+String.h
+/home/znt/CLionProjects/C++ Primer/C++Primer/String/String.h
+
+/home/znt/CLionProjects/C++ Primer/C++Primer/String/String.h
+iterator
+-
+utility
+-
+iostream
+-
+
+/home/znt/CLionProjects/C++ Primer/C++Primer/main.cpp
+iostream
+-
+String/String.h
+/home/znt/CLionProjects/C++ Primer/C++Primer/String/String.h
+

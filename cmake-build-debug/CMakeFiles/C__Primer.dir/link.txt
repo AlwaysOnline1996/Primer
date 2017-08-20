@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__Primer.dir/main.cpp.o CMakeFiles/C__Primer.dir/String/String.cpp.o  -o C__Primer 
